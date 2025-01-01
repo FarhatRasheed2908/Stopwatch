@@ -1,0 +1,43 @@
+body{
+    background-color: lightcoral;
+}
+
+#java{
+    color: brown;
+}
+.main{
+    background-color:black;
+    width: 290px;
+    height: 60px;
+    border-radius: 10px;
+    color: white;
+    font-size: xxx-large
+}
+#watch{
+    color: white;
+}
+.time{
+    display: inline-block;
+}
+.btn{
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    width: 70px;
+    height: 25px;
+        border-radius: 8px;
+}
+#start{
+    background-color: blue;
+    color: white;
+}
+#stop{
+    background-color: rgb(37, 18, 4);
+    color: white;
+}
+#reset{
+    background-color: cornflowerblue;
+    color: white;
+}
